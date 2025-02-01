@@ -2,10 +2,10 @@
 Transform academic research papers into engaging multimedia content with our all-in-one conversion tool. Featuring interactive 3D interfaces, intelligent voice interactions, and dynamic content generation.
 
 ## 🌟 Key Features
-### [Interactive 3D Podcast Experience](your-repo-url-for-podcast)
+### [Interactive 3D Podcast Experience](https://github.com/Niikkk8/podcast-environment)
 - Immersive 3D environment for podcast consumption
 - Interactive elements synchronized with audio content
-### [RAG-Powered Research Assistant](your-repo-url-for-rag)
+### [RAG-Powered Research Assistant](https://github.com/Niikkk8/3d-voicebot)
 - Interactive 3D voicebot interface
 - Context-aware responses using RAG (Retrieval Augmented Generation)
 ### [Graphical Abstract Generation](your-repo-url-for-graphic)
